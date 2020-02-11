@@ -1,4 +1,4 @@
-# YapQRScanner
+# scannerHelper
 Barcode scanning library for Android, using [ZXing][2] for decoding.
 
 The project is loosely based on the [ZXing Android Embedded][3], but is not affiliated with the official ZXing project.
@@ -24,7 +24,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.docotelsdk:YapQRScanner:1.0.0'
+    compile 'com.github.diee7812:scannerHelper:1.0.0'
     compile 'com.android.support:appcompat-v7:25.3.1'   // Minimum 23+ is required
 }
 
@@ -41,7 +41,7 @@ repositories {
 }
 
 dependencies {
-    compile('com.github.docotelsdk:YapQRScanner:1.0.0') { transitive = false }
+    compile('com.github.diee7812:scannerHelper:1.0.0') { transitive = false }
     compile 'com.android.support:appcompat-v7:25.3.1'   // Version 23+ is required
     compile 'com.google.zxing:core:3.3.0'
 }
