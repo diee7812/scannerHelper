@@ -1,7 +1,5 @@
 package com.spe.scanner;
 
-import com.google.zxing.ResultPoint;
-
 import java.util.List;
 
 /**

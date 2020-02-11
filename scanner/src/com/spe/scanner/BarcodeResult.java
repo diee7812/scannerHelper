@@ -8,7 +8,6 @@ import android.graphics.Paint;
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.Result;
 import com.google.zxing.ResultMetadataType;
-import com.google.zxing.ResultPoint;
 
 import java.util.Map;
 

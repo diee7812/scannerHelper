@@ -14,7 +14,6 @@ import android.view.KeyEvent;
 import com.spe.scanner.BarcodeCallback;
 import com.spe.scanner.BarcodeResult;
 import com.spe.scanner.DecoratedBarcodeView;
-import com.google.zxing.ResultPoint;
 import com.google.zxing.client.android.BeepManager;
 
 import java.util.List;
