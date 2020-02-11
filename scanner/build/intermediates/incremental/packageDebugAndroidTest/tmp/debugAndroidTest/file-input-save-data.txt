@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Feb 11 11:50:17 ICT 2020
+0.baseType=DIRECTORY
+0.base=D\:\\Projek\\Kantor\\scannerHelper\\scanner\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\out
+0.path=classes.dex
+0.set=DEX
+count=1

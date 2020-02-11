@@ -1,0 +1,4 @@
+#Tue Feb 11 11:50:17 ICT 2020
+base.0=D\:\\Projek\\Kantor\\scannerHelper\\scanner\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\out
+path.0=classes.dex
+renamed.0=classes.dex
