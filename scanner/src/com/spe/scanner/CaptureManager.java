@@ -22,6 +22,7 @@ import android.view.Window;
 import android.view.WindowManager;
 
 import com.google.zxing.ResultMetadataType;
+import com.google.zxing.ResultPoint;
 import com.google.zxing.client.android.BeepManager;
 import com.google.zxing.client.android.InactivityTimer;
 import com.google.zxing.client.android.Intents;

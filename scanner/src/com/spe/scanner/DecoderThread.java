@@ -9,6 +9,7 @@ import android.util.Log;
 
 import com.google.zxing.LuminanceSource;
 import com.google.zxing.Result;
+import com.google.zxing.ResultPoint;
 import com.google.zxing.client.android.R;
 import com.spe.scanner.camera.CameraInstance;
 import com.spe.scanner.camera.PreviewCallback;

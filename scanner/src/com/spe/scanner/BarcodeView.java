@@ -6,6 +6,7 @@ import android.os.Message;
 import android.util.AttributeSet;
 
 import com.google.zxing.DecodeHintType;
+import com.google.zxing.ResultPoint;
 import com.google.zxing.client.android.R;
 
 import java.util.HashMap;
