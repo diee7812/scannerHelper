@@ -1,6 +1,7 @@
 package com.spe.scanner;
 
-import android.support.annotation.NonNull;
+
+import androidx.annotation.NonNull;
 
 /**
  *

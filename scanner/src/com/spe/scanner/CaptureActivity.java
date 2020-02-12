@@ -2,8 +2,8 @@ package com.spe.scanner;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.support.annotation.NonNull;
 import android.view.KeyEvent;
+import androidx.annotation.NonNull;
 
 import com.google.zxing.client.android.R;
 
